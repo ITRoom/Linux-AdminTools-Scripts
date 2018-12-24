@@ -1264,9 +1264,6 @@ Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Li
 *Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Nonfree][Money Icon] are nonfree (as in nonfree beer) and may cost money to use.*
 
 <br>
-*Author's note: Recently, I received feedback from you about the quality of some of the applications on this list. I have tested a lot of these, but not all. If you have any problems with the apps, please: -> head to the dev page (if available) -> make an issue for the dev there -> make an issue here so that I can consider whether I should remove the app from the list. Remember : Every piece of software has it's own merits, so there will never be anything like "best app" or "selective list" here, thank you.*
-
-<br>
 
 ## License
 
