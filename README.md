@@ -1236,9 +1236,7 @@
 
 ## Contributors
 
-Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Linux-Software/graphs/contributors) for making this list possible and
-*Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com & other forums for many suggestions and compliments*
- ...
+Thanks to All of Github contributors for making this list possible ...  
 
 **[⬆ back to top](#table-of-contents)**
 
