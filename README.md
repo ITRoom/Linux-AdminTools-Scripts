@@ -1265,6 +1265,12 @@ Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Li
 
 <br>
 
+## Credits
+
+This is a fork of https://github.com/luongvo209/Awesome-Linux-Software . All credits for this collection goes to him. 
+
+<br>
+
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
