@@ -1264,9 +1264,11 @@ Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Li
 *Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Nonfree][Money Icon] are nonfree (as in nonfree beer) and may cost money to use.*
 
 <br>
+
 ## Credits
 
 This is a fork of https://github.com/luongvo209/Awesome-Linux-Software . All credits for this collection goes to him. 
+
 <br>
 
 ## License
